@@ -1,0 +1,12 @@
+﻿  Food.cpp
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(4,12): error C3646: 'food': unknown override specifier
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(4,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(9,20): error C3646: 'GetFoodCoord': unknown override specifier
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(9,20): error C2059: syntax error: '('
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(9,22): error C2238: unexpected token(s) preceding ';'
+C:\Users\gimpu\Desktop\Snake\Snake\Food.cpp(5,15): error C2614: 'Food': illegal member initialization: 'food' is not a base or member
+C:\Users\gimpu\Desktop\Snake\Snake\Food.cpp(14,5): error C2065: 'food': undeclared identifier
+C:\Users\gimpu\Desktop\Snake\Snake\Food.cpp(17,5): error C2065: 'food': undeclared identifier
+C:\Users\gimpu\Desktop\Snake\Snake\Food.cpp(20,13): error C2039: 'GetFoodCoord': is not a member of 'Food'
+C:\Users\gimpu\Desktop\Snake\Snake\Food.h(2): message : see declaration of 'Food'
+C:\Users\gimpu\Desktop\Snake\Snake\Food.cpp(22,12): error C2065: 'food': undeclared identifier
