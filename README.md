@@ -1,2 +1,2 @@
 # Snake 
-simple snake game in console
+Simple snake game in console
